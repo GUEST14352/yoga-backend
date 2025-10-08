@@ -1,4 +1,6 @@
 fastapi
 uvicorn
-gunicorn
-requests
+sqlalchemy
+pydantic
+python-dotenv
+secure-smtplib
